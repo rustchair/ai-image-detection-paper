@@ -1,1 +1,1 @@
-# ai-image-detection-paper
+# Detecting AI-Generated Images of People
